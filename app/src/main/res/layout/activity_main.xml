@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/fl_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        ></FrameLayout>
+    <RadioGroup
+
+        android:orientation="horizontal"
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <RadioButton
+            android:id="@+id/rb_main_chat"
+            android:text="会话"
+            style="@style/MainButtonStyle"
+            android:textColor="@color/main_button_textcolor_selector"
+            android:background="@drawable/main_button_bg_selector"
+
+            />
+        <RadioButton
+            style="@style/MainButtonStyle"
+            android:id="@+id/rb_main_contact"
+            android:text="联系人"
+            android:textColor="@color/main_button_textcolor_selector"
+            android:background="@drawable/main_button_bg_selector"
+
+
+            />
+        <RadioButton
+            android:id="@+id/rb_main_setting"
+            android:text="设置"
+            android:textColor="@color/main_button_textcolor_selector"
+            style="@style/MainButtonStyle"
+            android:background="@drawable/main_button_bg_selector"
+            />
+
+
+
+    </RadioGroup>
+
+</LinearLayout>

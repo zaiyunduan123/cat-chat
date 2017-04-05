@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#666667">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="群详情"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp" />
+
+
+
+    </RelativeLayout>
+    <GridView
+        android:id="@+id/gv_groupdetail"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:numColumns="4"
+        android:padding="5dp"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        ></GridView>
+
+    <Button
+        android:id="@+id/bt_groupdetail_out"
+        android:textSize="25sp"
+        android:text="退群"
+        android:textColor="#FFFFFF"
+        android:background="#666667"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+</LinearLayout>
