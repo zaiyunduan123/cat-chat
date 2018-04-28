@@ -6,9 +6,14 @@
 
 ## 效果图
 
-![5]
-[1]:https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-01-13-23-00-50.png
-[2]:https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-02-23-19-11-38.png
-[3]:https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-02-23-19-12-10.png
-[4]:https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-02-23-19-14-07.png
-[5]:https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-02-23-19-13-12.png
+![](https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-01-13-23-00-50.png)
+
+![](https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-02-23-19-11-38.png)
+
+![](https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-02-23-19-12-10.png)
+
+![](https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-02-23-19-14-07.png)
+
+![](https://github.com/zaiyunduan123/miChat/blob/master/images/Screenshot_2017-02-23-19-13-12.png)
+
+
